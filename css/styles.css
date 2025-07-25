@@ -1,0 +1,66 @@
+.body {
+  font-family: Roboto, sans-serif;
+  color: #2e2f42;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.section1 {
+  background-color: #2e2f42;
+}
+.section3 {
+  background-color: #f4f4fd;
+}
+h1 {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.071;
+  font-weight: 700;
+}
+h2 {
+  font-size: 36px;
+  line-height: 1.111;
+  font-weight: 700;
+}
+h3,
+h4 {
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.footer {
+  font-family: inherit;
+}
+.link:hover {
+  color: #4d5ae5;
+}
+.link11 {
+  font-weight: 400;
+}
+.link11:hover {
+  color: #4d5ae5;
+}
+.button {
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  color: #4d5ae5;
+}
+.link1 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.link1:hover {
+  color: #4d5ae5;
+}
+.footer p {
+  color: #f4f4fd;
+  font-weight: 400;
+}
+.footer {
+  background-color: #2e2f42;
+}
+p {
+  font-weight: 400;
+}
